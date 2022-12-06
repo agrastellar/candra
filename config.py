@@ -17,6 +17,8 @@ class Development(Config):
     PRIVATE_GROUP_BOT_API_ID = -1001623978356
     # command handler
     COMMAND_HAND_LER = "."
+    VCMODE = "True"
+    VC_SESSION "your 2nd account telethon session"
     # command hanler for sudo
     SUDO_COMMAND_HAND_LER = "."
     # External plugins repo
